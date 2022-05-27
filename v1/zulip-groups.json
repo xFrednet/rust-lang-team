@@ -1,0 +1,47 @@
+{
+  "groups": {
+    "T-infra": {
+      "name": "T-infra",
+      "members": [
+        {
+          "id": 116122
+        },
+        {
+          "id": 116155
+        },
+        {
+          "id": 121055
+        },
+        {
+          "email": "aidanhs@cantab.net"
+        },
+        {
+          "email": "kennytm@gmail.com"
+        }
+      ]
+    },
+    "T-types": {
+      "name": "T-types",
+      "members": [
+        {
+          "id": 116009
+        },
+        {
+          "id": 116266
+        },
+        {
+          "id": 232957
+        },
+        {
+          "id": 426609
+        },
+        {
+          "email": "rust@lcnr.de"
+        },
+        {
+          "email": "rustc-contact@oli-obk.de"
+        }
+      ]
+    }
+  }
+}
